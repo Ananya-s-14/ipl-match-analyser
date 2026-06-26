@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IPL project — ignore large data files
+data/*.csv
+data/*.xlsx
+
+# Mac system files
+.DS_Store
